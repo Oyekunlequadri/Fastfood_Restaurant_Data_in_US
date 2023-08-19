@@ -1,4 +1,7 @@
 # Fastfood_Restaurant_Data_in_US
+
+This is a list of over 10,000 fast food restaurants provided by Datafiniti's Business Database. The dataset includes the restaurant's address, city, latitude and longitude coordinates, name, and more.
+
 Each row of the dataset represents a restaurant and contains various columns with different types of information. Here's a brief description of each column:
 
 address: The street address of the restaurant.
@@ -17,4 +20,4 @@ date: Date of some event or data collection related to the restaurant.
 time: Time of day, possibly related to the event or data collection.
 months_name: Name of the month, likely related to the event or data collection.
 
-Data source: Kaggle
+Data source: Kaggle - https://www.kaggle.com/datasets/datafiniti/fast-food-restaurants?resource=download
